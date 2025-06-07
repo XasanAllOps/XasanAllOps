@@ -14,4 +14,4 @@
 
 ---
 ### Technology Stack
-<p> <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,linux,bash,gitlab" alt="DevOps Tools" style="display: inline-block; vertical-align: middle;"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,linux,bash,gitlab" alt="DevOps Tools" style="pointer-events: one; display: inline-block; vertical-align: middle;"/> </p>
