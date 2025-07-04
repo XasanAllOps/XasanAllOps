@@ -7,7 +7,7 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=XasanAllOps&label=Profile%20views&color=ffc300&style=flat" alt="Xasan"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=XasanAllOps&label=Profile%20views&color=d90429&style=flat" alt="Xasan"/></p>
 
 ---
 ### Connect with me
