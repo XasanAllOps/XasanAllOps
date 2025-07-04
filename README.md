@@ -19,5 +19,15 @@
 
 
 ---
-### Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,linux,bash,gitlab,kubernetes" alt="DevOps Tools" style="pointer-events: none; display: inline-block; vertical-align: middle;"/> </p>
+### Skills acquired 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,linux,bash,javascript,github,gitlab" alt="DevOps Tools" />
+</p>
+
+
+---
+
+### Currently focusing on upskilling in: 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,go,kafka&perline=5" alt="DevOps Tools"/>
+</p>
