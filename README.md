@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XasanAllOps&label=Profile%20views&color=d90429&style=flat" alt="Xasan"/></p>
+
 <div align="center">
   <samp>
     <p>Welcome to my GitHub 🙌🏽</p>
@@ -5,9 +7,6 @@
     <p>This is where I document my progress, projects, and lessons along the way. My dream is to reach a high level of skill and one day give back to the tech community — just as others did for me when I was starting out.</p>
   </samp>
 </div>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=XasanAllOps&label=Profile%20views&color=d90429&style=flat" alt="Xasan"/></p>
 
 ---
 ### Connect with me 👋🏽
